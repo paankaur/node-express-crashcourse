@@ -1,0 +1,19 @@
+{
+  "name": "expresscrashcourse",
+  "version": "1.0.0",
+  "description": "Express-crash-course-by-mrTraversy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch --env-file=.env server"
+  },
+  "keywords": [
+    "noobs"
+  ],
+  "author": "Paan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
