@@ -1,0 +1,16 @@
+{
+  "name": "node2025jaanuar",
+  "version": "1.0.0",
+  "description": "Node exercises for noobs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch server"
+  },
+  "author": "Paan Kaur Riives 2025",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
